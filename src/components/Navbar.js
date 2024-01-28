@@ -37,12 +37,6 @@ const Navbar = () => {
                   Partners
                 </Link>
               </li>
-        
-              <li>
-                <Link to="/login" className="hover-link">
-                  Login
-                </Link>
-              </li>
               <li>
                 <Link
                   target="_blank"
